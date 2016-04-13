@@ -37,11 +37,11 @@ var questions = [
       ]
   },
   {
-      "A Po'boy": [
-          "always contains seafood",
-          "is from New York City",
-          "a cheese sandwich",
-          "is a fried blooming onion"
+      "Which statement is true about a Po'boy sandwich?": [
+          "It always contains seafood",
+          "It's from New York City",
+          "It's a cheese sandwich",
+          "It's a fried blooming onion"
       ]
   },
   {
@@ -72,7 +72,7 @@ var questions = [
       "Which of the following is a tube shaped pasta": [
           "Rigatoni",
           "Ravioli",
-          "Farfalle",
+          "Linguine",
           "Gnocchi"
       ]
   },
@@ -93,7 +93,7 @@ var questions = [
       ]
   },
   {
-      "An alcoholic drink popular in is called:": [
+      "An alcoholic drink popular in South Korea is called:": [
           "Soju",
           "Vodka",
           "Ouzo",
@@ -249,7 +249,7 @@ var questions = [
         "What ingredient is needed to make kimchi?": [
             "Napa cabbage",
             "Yellow beetroot",
-            "Tempeh",
+            "Tofu",
             "Kombucha"
         ]
     },
@@ -282,7 +282,7 @@ var questions = [
             "A corn tortilla filled with cheese, meat or refried beans",
             "A sauce slow-cooked with nuts, spices and chocolate",
             "A taco stuffed with cacti, eggs and salsa",
-            "A mix of meat and corn-based dough steamed in a husk"
+            "A mix of meat and corn-meal dough steamed in a husk"
         ]
     },
     {
@@ -322,7 +322,7 @@ var questions = [
             "Foie gras",
             "Bisque",
             "Eclair",
-            "Croissant"
+            "Fromage"
         ]
     },
     {
@@ -334,11 +334,11 @@ var questions = [
         ]
     },
     {
-        "Sambal is a hot sauce eaten in": [
-            "Indonesia",
-            "Israel",
-            "Iran",
-            "Iceland"
+        "Sambal is a hot sauce eaten by": [
+            "Indonesians",
+            "Israelis",
+            "Iranians",
+            "Iraquis"
         ]
     },
     {
